@@ -34,7 +34,7 @@
     "release": "npm run build && clean-pkg-json && changeset publish"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "7.23.3",
+    "@babel/eslint-parser": "7.24.8",
     "@babel/eslint-plugin": "7.23.5",
     "@babel/plugin-syntax-flow": "7.23.3",
     "@babel/plugin-syntax-jsx": "7.23.3",
