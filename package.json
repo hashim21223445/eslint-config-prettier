@@ -41,7 +41,7 @@
     "@babel/plugin-transform-react-jsx": "7.23.4",
     "@changesets/changelog-github": "^0.5.0",
     "@changesets/cli": "^2.27.7",
-    "@typescript-eslint/eslint-plugin": "6.13.1",
+    "@typescript-eslint/eslint-plugin": "6.21.0",
     "@typescript-eslint/parser": "6.21.0",
     "clean-pkg-json": "^1.2.0",
     "eslint": "8.55.0",
