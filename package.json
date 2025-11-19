@@ -44,7 +44,7 @@
     "@typescript-eslint/eslint-plugin": "6.21.0",
     "@typescript-eslint/parser": "6.21.0",
     "clean-pkg-json": "^1.2.0",
-    "eslint": "8.55.0",
+    "eslint": "9.0.0",
     "eslint-config-google": "0.14.0",
     "eslint-find-rules": "4.1.0",
     "eslint-plugin-babel": "5.3.1",
